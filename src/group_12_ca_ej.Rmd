@@ -28,4 +28,4 @@ ggplot(data = ces, aes(x = white_percent, y = ces_3_0_score)) +
   theme_minimal()
 ```
 
-Analysis: There is a general pattern across the data showing that as the percentage of the population that is white increases, the pollution burden tends to decrease. There appear to be clusters at either end of the data - where there are 0% white residents, there is a higher count of residents living in neighborhoods with a pollution burden of 50 or more on the polluiont burden index, compared to neighborhoods with 75% white residents, where there are almost none experiencing that level of pollution burden. 
+Analysis: There is a general pattern across the data showing that as the percentage of the population that is white increases, the pollution burden tends to decrease. There appear to be clusters at either end of the data - where there are 0% white residents, there is a higher count of residents living in neighborhoods with a pollution burden of 50 or more on the pollution burden index, compared to neighborhoods with 75% white residents, where there are almost none experiencing that level of pollution burden. 
